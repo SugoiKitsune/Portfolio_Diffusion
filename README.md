@@ -12,6 +12,7 @@ Utilize diffusion models, typically used in image generation, to replicate and c
 Evaluate the effectiveness of these models in generating realistic and effective portfolios based on input prompts.
 Methodology
 The approach is inspired by text-to-image generation models, such as the SDXL model, adapted for financial data. The core components include:
+
 ![SDXL sample](https://github.com/user-attachments/assets/cbe2f77a-62ee-4235-962d-279f0f928c6e)
 
 **Dataset and Tokenization:**
